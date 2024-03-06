@@ -7,7 +7,7 @@ This project is an Android TV app showcasing how to develop a Splash Screen for 
 ## 💻 Building the Splash Screen TV demo
 
 1. Clone the demo app repository:
-`git clone git@github.com:giolaq/splash-screen-fire-tv-demo.git`
+`git clone git@github.com:AmazonAppDev/splash-screen-fire-tv-demo.git`
 2. Connect your Fire TV device following these [instructions](https://developer.amazon.com/docs/fire-tv/connecting-adb-to-device.html).
 3. Run the demo app [following these docs](https://developer.amazon.com/docs/fire-tv/installing-and-running-your-app.html).
 
