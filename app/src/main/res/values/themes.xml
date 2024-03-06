@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="Theme.SplashScreenTV" parent="@style/Theme.Leanback" />
+
+    <style name="Theme.SplashScreenTV.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="SplashScreenTheme" parent="Theme.SplashScreenTV.NoActionBar">
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+    </style>
+
+    <style name="Theme.SplashScreenTV.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.SplashScreenTV.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
