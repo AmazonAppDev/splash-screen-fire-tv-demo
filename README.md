@@ -1,10 +1,12 @@
-# Splash Screen sample app for Fire TV  [![AndroidWeekly 555](https://androidweekly.net/issues/issue-555/badge)](https://androidweekly.net/issues/issue-555)
-This project is an Android TV app showcasing how to develop a Splash Screen for Amazon Fire TV apps. Follow the guide and check this repository to develop your custom splash screen.
+[![AndroidWeekly 555](https://androidweekly.net/issues/issue-555/badge)](https://androidweekly.net/issues/issue-555)
+# Splash screen app for Fire TV  
 
-**Note:** Fire OS is based on the [Android Open Source project version 11](https://source.android.com/docs/setup/about/android-11-release) so you should not use Android 12's new SplashScreen APIs as described in [the Android v12 docs](https://developer.android.com/develop/ui/views/launch/splash-screen).
+This project is an Android TV app showcasing how to develop a splash screen for Amazon Fire TV apps. Follow the guide and check this repository to develop your custom splash screen.
+
+> **Note:** Fire OS is based on the [Android Open Source project version 11](https://source.android.com/docs/setup/about/android-11-release) so do **not** use [Android 12's SplashScreen APIs](https://developer.android.com/develop/ui/views/launch/splash-screen). Read our docs for an [overview of Fire OS versions here](https://developer.amazon.com/docs/fire-tv/fire-os-overview.html).
 
 
-## 💻 Building the Splash Screen TV demo
+## 💻 Building the splash screen for TV apps
 
 1. Clone the demo app repository:
 `git clone git@github.com:AmazonAppDev/splash-screen-fire-tv-demo.git`
@@ -85,17 +87,15 @@ You have now implemented a custom splash screen and optimized the starting time 
 If you found a bug or want to suggest a new [feature/use case/sample], please [file an issue](../../issues).
 
 If you have questions, comments, or need help with code, we're here to help:
-- on Twitter at [@AmazonAppDev](https://twitter.com/AmazonAppDev)
-- on Stack Overflow at the [amazon-appstore](https://stackoverflow.com/questions/tagged/amazon-appstore) tag
+- [Ask questions](https://community.amazondeveloper.com/c/amazon-appstore/appstore-questions/20) in the Amazon developer community space
+- Ask questions on Stack Overflow using the [amazon-appstore](https://stackoverflow.com/questions/tagged/amazon-appstore) tag
 
 
 ### Stay updated
 Get the most up to date Amazon Appstore developer news, product releases, tutorials, and more:
 
 * 📣 Follow [@AmazonAppDev](https://twitter.com/AmazonAppDev) and [our team](https://twitter.com/i/lists/1580293569897984000) on [Twitter](https://twitter.com/AmazonAppDev)
-
 * 📺 Subscribe to our [Youtube channel](https://www.youtube.com/amazonappstoredevelopers)
-
 * 📧 Sign up for the [Developer Newsletter](https://m.amazonappservices.com/devto-newsletter-subscribe)
 
 
