@@ -5,6 +5,11 @@ This project is an Android TV app showcasing how to develop a splash screen for 
 
 > **Note:** Fire OS is based on the [Android Open Source project version 11](https://source.android.com/docs/setup/about/android-11-release) so do **not** use [Android 12's SplashScreen APIs](https://developer.android.com/develop/ui/views/launch/splash-screen). Read our docs for an [overview of Fire OS versions here](https://developer.amazon.com/docs/fire-tv/fire-os-overview.html).
 
+## Prerequisites
+
+To test this project, you will need the following:
+- Android Studio
+- (Optional) Fire TV 
 
 ## 💻 Building the splash screen for TV apps
 
