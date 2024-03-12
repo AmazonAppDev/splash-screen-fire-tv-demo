@@ -1,4 +1,4 @@
-[!Android build](https://github.com/AmazonAppDev/splash-screen-fire-tv-demo/actions/workflows/android.yml/badge.svg)
+![Android build](https://github.com/AmazonAppDev/splash-screen-fire-tv-demo/actions/workflows/android.yml/badge.svg)
 [![AndroidWeekly 555](https://androidweekly.net/issues/issue-555/badge)](https://androidweekly.net/issues/issue-555)
 # Splash screen app for Fire TV  
 
